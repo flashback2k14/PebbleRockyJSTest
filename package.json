@@ -1,0 +1,28 @@
+{
+    "author": "yeahdev@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "prjst",
+    "pebble": {
+        "capabilities": [
+            "location"
+        ],
+        "displayName": "PebbleRockyJSTest",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "1e2253e6-9434-4004-a34b-6a51c029b9f0",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
